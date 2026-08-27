@@ -1,5 +1,14 @@
 # Revisi Animasi Swipe
 
+## Revisi Guestbook dan Preloader
+
+- [x] Tambahkan preloader estetik sebelum cover siap dibuka.
+- [x] Pastikan preloader menampilkan progress dan transisi keluar yang halus.
+- [x] Sempurnakan guestbook dengan timestamp dan feedback empty/success state.
+- [x] Pastikan pesan guestbook aman, tidak memakai data seed, dan tetap tersimpan di localStorage.
+- [x] Pastikan reduced-motion melewati animasi preloader non-esensial.
+- [x] Jalankan TypeScript check, production build, dan screenshot final.
+
 ## Revisi Parallax dan Hover
 
 - [x] Tambahkan parallax berbasis scroll yang ringan pada foto hero.
