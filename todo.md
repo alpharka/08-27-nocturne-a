@@ -1,5 +1,13 @@
 # Revisi Animasi Swipe
 
+## Revisi Kalender dan Peta
+
+- [x] Tambahkan tombol Add to Calendar dengan URL Google Calendar terisi.
+- [x] Tambahkan tombol penunjuk arah yang membuka Google Maps pada tab baru.
+- [x] Tambahkan fallback geo URI untuk perangkat mobile bila tersedia.
+- [x] Pastikan label tombol, target link, dan akses keyboard jelas.
+- [x] Jalankan TypeScript check, production build, dan screenshot final.
+
 ## Revisi Guestbook dan Preloader
 
 - [x] Tambahkan preloader estetik sebelum cover siap dibuka.
